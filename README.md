@@ -90,7 +90,7 @@ Pretendo futuramente evoluir o projeto com:
 
 **Daniel Santini**
 
-Estudante de Análise e Desenvolvimento de Sistemas, direcionando minha carreira para o desenvolvimento Back-end com Java.
+Estudante de Análise e Desenvolvimento de Sistemas e do Curso Desernvolvedor Full Stack em Java na Fuctura Tecnologia, direcionando minha carreira para o desenvolvimento Back-end com Java.
 
 [LinkedIn](https://www.linkedin.com/in/danielsantinidev)
 
